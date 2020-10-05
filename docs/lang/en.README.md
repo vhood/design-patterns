@@ -32,7 +32,6 @@ TODO     | TODO
   - [Template Method](#template-method)
   - [Command](#command)
   - [Mediator](#mediator)
-  - [Visitor](#visitor)
   - [Chain of Responsibility](#chain-of-responsibility)
   - [Null Object](#null-object)
 
@@ -327,24 +326,6 @@ TODO
 ### Mediator
 
 ![Proxy](/docs/img/Proxy.png)
-
-**Purpose**
-TODO
-
-| examples
-| -
-| TODO
-
-**Note**:
-
-- TODO
-- TODO
-
-[Up ↑](#navigation)
-
-### Visitor
-
-![Visitor](/docs/img/Visitor.png)
 
 **Purpose**
 TODO
