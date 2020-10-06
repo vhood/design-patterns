@@ -43,7 +43,7 @@ ________________
 
 ### Фабричный метод
 
-![Factory-Method](/docs/img/Factory%20Method.png)
+![Factory-Method](/docs/img/patterns/Factory%20Method.png)
 
 **Назначение**  
 Предоставляет интерфейс создания объекта без привязки к классу создаваемого объекта
@@ -63,7 +63,7 @@ ________________
 
 ### Абстрактная фабрика
 
-![Abstract-Factory](/docs/img/Abstract%20Factory.png)
+![Abstract-Factory](/docs/img/patterns/Abstract%20Factory.png)
 
 **Назначение**  
 Предоставляет интерфейс создания семейства объектов без указания конкретных классов этих семейств
@@ -83,7 +83,7 @@ ________________
 
 ### Строитель
 
-![Builder](/docs/img/Builder.png)
+![Builder](/docs/img/patterns/Builder.png)
 
 **Назначение**  
 Разбивает конструирование объектов на этапы и предоставляет интерфейс управления этими этапами
@@ -103,7 +103,7 @@ ________________
 
 ### Одиночка
 
-![Singleton](/docs/img/Singleton.png)
+![Singleton](/docs/img/patterns/Singleton.png)
 
 **Назначение**  
 Отвечает за существование единственного объекта в своем роде
@@ -127,7 +127,7 @@ ________________
 
 ### Декоратор
 
-![Decorator](/docs/img/Decorator.png)
+![Decorator](/docs/img/patterns/Decorator.png)
 
 **Назначение**  
 Наделяет объект новым функционалом, не затрагивая его интерфейс
@@ -147,7 +147,7 @@ ________________
 
 ### Фасад
 
-![Facade](/docs/img/Facade.png)
+![Facade](/docs/img/patterns/Facade.png)
 
 **Назначение**  
 Предоставляет упрощенный интерфейс сложной системы
@@ -167,7 +167,7 @@ ________________
 
 ### Адаптер
 
-![Adapter](/docs/img/Adapter.png)
+![Adapter](/docs/img/patterns/Adapter.png)
 
 **Назначение**  
 Предоставляет возможность объектам с разными интерфейсами работать под одним интерфейсом
@@ -187,7 +187,7 @@ ________________
 
 ### Компоновщик
 
-![Composite](/docs/img/Composite.png)
+![Composite](/docs/img/patterns/Composite.png)
 
 **Назначение**  
 Позволяет работать с деревом объектов одного интерфейса как с одним объектом
@@ -207,7 +207,7 @@ ________________
 
 ### Мост
 
-![Bridge](/docs/img/Bridge.png)
+![Bridge](/docs/img/patterns/Bridge.png)
 
 **Назначение**  
 Разделяет описание объекта на абстракцию и реализацию, позволяя управлять ими по отдельности
@@ -231,7 +231,7 @@ ________________
 
 ### Стратегия
 
-![Strategy](/docs/img/Strategy.png)
+![Strategy](/docs/img/patterns/Strategy.png)
 
 **Назначение**  
 Инкапсулирует изменение поведения одних и тех же методов объекта в зависимости от выбранной стратегии
@@ -251,7 +251,7 @@ ________________
 
 ### Состояние
 
-![State](/docs/img/State.png)
+![State](/docs/img/patterns/State.png)
 
 **Назначение**  
 Инкапсулирует изменение поведения одних и тех же методов объекта в зависимости от его состояния
@@ -271,7 +271,7 @@ ________________
 
 ### Итератор
 
-![Iterator](/docs/img/Iterator.png)
+![Iterator](/docs/img/patterns/Iterator.png)
 
 **Назначение**  
 Предоставляет интерфейс перебора данных различных типов
@@ -291,7 +291,7 @@ ________________
 
 ### Наблюдатель
 
-![Observer](/docs/img/Observer.png)
+![Observer](/docs/img/patterns/Observer.png)
 
 **Назначение**  
 Предоставляет механизм слежки за состоянием объектов
@@ -311,7 +311,7 @@ ________________
 
 ### Шаблонный метод
 
-![Template Method](/docs/img/Template%20Method.png)
+![Template Method](/docs/img/patterns/Template%20Method.png)
 
 **Назначение**  
 Предоставляет единый интерфейс использования алгоритма с возможностью разной реализации шагов
@@ -331,7 +331,7 @@ ________________
 
 ### Команда
 
-![Command](/docs/img/Command.png)
+![Command](/docs/img/patterns/Command.png)
 
 **Назначение**  
 Предоставляет единый интерфейс выполнения команд с возможностью выполнения дополнительных операций над ними
@@ -351,7 +351,7 @@ ________________
 
 ### Посредник
 
-![Proxy](/docs/img/Proxy.png)
+![Proxy](/docs/img/patterns/Proxy.png)
 
 **Назначение**  
 Контролирует доступ к объекту за счет объекта-заместителя
@@ -371,7 +371,7 @@ ________________
 
 ### Цепочка обязанностей
 
-![Chain of Responsibility](/docs/img/Chain%20of%20Responsibility.png)
+![Chain of Responsibility](/docs/img/patterns/Chain%20of%20Responsibility.png)
 
 **Назначение**  
 Фасад обработки запросов несколькими объектами последовательно
@@ -391,7 +391,7 @@ ________________
 
 ### Несуществующий объект
 
-![Null Object](/docs/img/Null%20Object.png)
+![Null Object](/docs/img/patterns/Null%20Object.png)
 
 **Назначение**  
 Предоставляет объект с нейтральным поведением методов интерфейса

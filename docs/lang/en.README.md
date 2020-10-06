@@ -43,7 +43,7 @@ ________________
 
 ### Factory Method
 
-![Factory-Method](/docs/img/Factory%20Method.png)
+![Factory-Method](/docs/img/patterns/Factory%20Method.png)
 
 **Purpose**  
 TODO
@@ -63,7 +63,7 @@ ________________
 
 ### Abstract Factory
 
-![Abstract-Factory](/docs/img/Abstract%20Factory.png)
+![Abstract-Factory](/docs/img/patterns/Abstract%20Factory.png)
 
 **Purpose**  
 TODO
@@ -83,7 +83,7 @@ ________________
 
 ### Builder
 
-![Builder](/docs/img/Builder.png)
+![Builder](/docs/img/patterns/Builder.png)
 
 **Purpose**  
 TODO
@@ -103,7 +103,7 @@ ________________
 
 ### Singleton
 
-![Singleton](/docs/img/Singleton.png)
+![Singleton](/docs/img/patterns/Singleton.png)
 
 **Purpose**  
 TODO
@@ -127,7 +127,7 @@ ________________
 
 ### Decorator
 
-![Decorator](/docs/img/Decorator.png)
+![Decorator](/docs/img/patterns/Decorator.png)
 
 **Purpose**  
 TODO
@@ -147,7 +147,7 @@ ________________
 
 ### Facade
 
-![Facade](/docs/img/Facade.png)
+![Facade](/docs/img/patterns/Facade.png)
 
 **Purpose**  
 TODO
@@ -167,7 +167,7 @@ ________________
 
 ### Adapter
 
-![Adapter](/docs/img/Adapter.png)
+![Adapter](/docs/img/patterns/Adapter.png)
 
 **Purpose**  
 TODO
@@ -187,7 +187,7 @@ ________________
 
 ### Composite
 
-![Composite](/docs/img/Composite.png)
+![Composite](/docs/img/patterns/Composite.png)
 
 **Purpose**  
 TODO
@@ -207,7 +207,7 @@ ________________
 
 ### Bridge
 
-![Bridge](/docs/img/Bridge.png)
+![Bridge](/docs/img/patterns/Bridge.png)
 
 **Purpose**  
 TODO
@@ -231,7 +231,7 @@ ________________
 
 ### Strategy
 
-![Strategy](/docs/img/Strategy.png)
+![Strategy](/docs/img/patterns/Strategy.png)
 
 **Purpose**  
 TODO
@@ -251,7 +251,7 @@ ________________
 
 ### State
 
-![State](/docs/img/State.png)
+![State](/docs/img/patterns/State.png)
 
 **Purpose**  
 TODO
@@ -271,7 +271,7 @@ ________________
 
 ### Iterator
 
-![Iterator](/docs/img/Iterator.png)
+![Iterator](/docs/img/patterns/Iterator.png)
 
 **Purpose**  
 TODO
@@ -291,7 +291,7 @@ ________________
 
 ### Observer
 
-![Observer](/docs/img/Observer.png)
+![Observer](/docs/img/patterns/Observer.png)
 
 **Purpose**  
 TODO
@@ -311,7 +311,7 @@ ________________
 
 ### Template Method
 
-![Template Method](/docs/img/Template%20Method.png)
+![Template Method](/docs/img/patterns/Template%20Method.png)
 
 **Purpose**  
 TODO
@@ -331,7 +331,7 @@ ________________
 
 ### Command
 
-![Command](/docs/img/Command.png)
+![Command](/docs/img/patterns/Command.png)
 
 **Purpose**  
 TODO
@@ -351,7 +351,7 @@ ________________
 
 ### Mediator
 
-![Proxy](/docs/img/Proxy.png)
+![Proxy](/docs/img/patterns/Proxy.png)
 
 **Purpose**  
 TODO
@@ -371,7 +371,7 @@ ________________
 
 ### Chain of Responsibility
 
-![Chain of Responsibility](/docs/img/Chain%20of%20Responsibility.png)
+![Chain of Responsibility](/docs/img/patterns/Chain%20of%20Responsibility.png)
 
 **Purpose**  
 TODO
@@ -391,7 +391,7 @@ ________________
 
 ### Null Object
 
-![Null Object](/docs/img/Null%20Object.png)
+![Null Object](/docs/img/patterns/Null%20Object.png)
 
 **Purpose**  
 TODO
