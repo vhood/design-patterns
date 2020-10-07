@@ -2,9 +2,19 @@
 
 ## How to read UML
 
-Entity   | Description
-:------: | :-------
-TODO     | TODO
+Entity                                          | Description
+:---------------------------------------------: | :------------------------------------------------------------------------
+![class](/docs/img/class.png)                   | a class (top down: name, data, methods)
+\-                                              | private
+\+                                              | public
+\#                                              | protected
+![interface](/docs/img/interface.png)           | an interface or an abstract Class
+![context](/docs/img/context.png)               | an example of interacting with a pattern
+![context-arrow](/docs/img/context-arrow.png)   | how the interaction with the pattern goes
+![pattern](/docs/img/pattern.png)               | a pattern or his conceptual part
+![implementation](/docs/img/implementation.png) | interface implementation or inheritance
+![aggregation](/docs/img/aggregation.png)       | the object on the right contains the object on the left through aggregation or composition
+![composition](/docs/img/composition.png)       | The object on the right contains the object on the left through composition
 
 ## Navigation
 
