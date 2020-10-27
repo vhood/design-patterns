@@ -27,6 +27,7 @@
   - [Command](#command)
   - [Proxy](#proxy)
   - [Mediator](#mediator)
+  - [Visitor](#visitor)
   - [Null Object](#null-object)
 
 ## How to read UML
@@ -204,6 +205,7 @@ Allows you to work with a tree of objects of one interface as with one object
 - Composite is similar to the [Facade](#facade) pattern in that its method encapsulates the work of methods of linked objects
 - A Composite object can contain components and other Composite objects as long as they implement the component interface, forming an object tree
 - The method that processes the object tree is implemented using the [Iterator](#iterator) pattern
+- The Composite pattern can include the [Visitor](#visitor) pattern and delegate components work to it based on the data they provide
 
 **[Navigation ↑](#navigation)**
 
@@ -381,6 +383,25 @@ Takes responsibility for communication between components
 - Components don't interact with each other
 - The pattern provides the ability for components to change the mediator object
 - The Mediator pattern is similar to the ["Chain Of Responsibilities"](#chain-of-responsibilities) in that after the client has accessed a series of events in which several objects can participate
+
+**[Navigation ↑](#navigation)**
+
+### Visitor
+
+![Visitor](/docs/img/patterns/Visitor.png)
+
+**Purpose**  
+Adds a visitor functionality to an object
+
+| examples
+| -
+| TODO
+
+**Note**:
+
+- A visitor object should not modify a target object
+- A target object asks to visit it and transfers the necessary data to the visitor object
+- The Visitor pattern provides an opportunity for different visitors to visit the same object
 
 **[Navigation ↑](#navigation)**
 
